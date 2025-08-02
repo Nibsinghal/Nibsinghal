@@ -72,7 +72,7 @@ An analytics dashboard to track mobile sales using Power BI.
 ## 📫 Let's Connect
 
 - 📧 Email: nirbhaysinghal01@gmail.com  
-- 🖥️ GitHub: [@nirbhay-singhal](https://github.com/nirbhay-singhal)  
+- 🖥️ GitHub: [@nirbhay-singhal]((https://github.com/Nirbhaysinghal2805))  
 - 🔗 LinkedIn: [linkedin.com/in/nirbhay-singhal](https://linkedin.com/in/nirbhay-singhal) 
 
 
